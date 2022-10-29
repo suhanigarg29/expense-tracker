@@ -31,9 +31,12 @@ For pushing your updates make a new branch in this format.
 git checkout -b "branch name"
 
 make changes and 
-git add .
-git commit -m "comments"
-git push -u origin "branch name"
+
+'git add . '
+
+'git commit -m "comments" ' 
+
+'git push -u origin "branch name" '
 
 ## Create a PR
 Click on contribute and perfrom a Pull Request
